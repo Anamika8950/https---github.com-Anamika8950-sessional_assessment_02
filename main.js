@@ -20,6 +20,7 @@
  </div>`;
  return cd;
  }
+ 
 
  function fetchPosts(){
      const xhr= new XMLHttpRequest();
